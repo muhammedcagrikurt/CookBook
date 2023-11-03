@@ -22,7 +22,7 @@
 
     <ImageView
         android:id="@+id/imageView8"
-        android:layout_width="411dp"
+        android:layout_width="0dp"
         android:layout_height="304dp"
         android:scaleType="fitXY"
         app:layout_constraintEnd_toEndOf="parent"
@@ -39,7 +39,6 @@
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
@@ -59,7 +58,7 @@
             android:layout_gravity="center"
             android:fontFamily="@font/dancing_script"
             android:text="@string/toolbar_name"
-            android:textColor="@color/white"
+            android:textColor="@color/yazi1Renk"
             android:textSize="40sp"
             tools:layout_editor_absoluteX="155dp"
             tools:layout_editor_absoluteY="17dp" />
@@ -87,7 +86,7 @@
         android:layout_marginTop="16dp"
         android:backgroundTint="@color/anaRenk"
         android:text="@string/leziz_yazi"
-        android:textColor="@color/white"
+        android:textColor="@color/yazi1Renk"
         android:textSize="16sp"
         android:textStyle="bold|italic"
         app:layout_constraintEnd_toStartOf="@+id/button4"
@@ -103,7 +102,7 @@
         android:layout_marginTop="16dp"
         android:backgroundTint="@color/anaRenk"
         android:text="@string/makarna_yazi"
-        android:textColor="@color/white"
+        android:textColor="@color/yazi1Renk"
         android:textSize="16sp"
         android:textStyle="bold|italic"
         app:layout_constraintEnd_toStartOf="@+id/button3"
@@ -119,7 +118,7 @@
         android:layout_marginTop="16dp"
         android:backgroundTint="@color/anaRenk"
         android:text="@string/Saglikli_yazi"
-        android:textColor="@color/white"
+        android:textColor="@color/yazi1Renk"
         android:textSize="16sp"
         android:textStyle="bold|italic"
         app:layout_constraintEnd_toEndOf="parent"

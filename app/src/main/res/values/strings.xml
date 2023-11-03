@@ -1,12 +1,13 @@
 <resources>
     <string name="app_name">CookBook</string>
     <string name="toolbar_name">CookBook</string>
-    <string name="tarif_tanıtım">Leziz Domatesli Makarna tarifini yerken hem karnınız doyucak hem gözünüz</string>
-    <string name="makarna_yazi">Makarna</string>
-    <string name="leziz_yazi">Leziz</string>
-    <string name="Saglikli_yazi">Sağlıklı</string>
+    <string name="tarif_tanıtım">While eating the Delicious Tomato Pasta recipe, you will be both full and happy.</string>
+    <string name="makarna_yazi">Pasta</string>
+    <string name="leziz_yazi">Delicious</string>
+    <string name="Saglikli_yazi">Healthy</string>
     <string name="kullanici_adi">Lezzet Kaşifi</string>
-    <string name="kullanici_unvan">Aşçı</string>
-    <string name="tarif_yayin_Tarih">02.11.2023</string>
-    <string name="tarif_baslik">Domates Soslu Makarna Tarifi</string>
+    <string name="kullanici_unvan">Chef</string>
+    <string name="tarif_yayin_Tarih">Recipe Release Date 02.11.2023</string>
+    <string name="yemek_baslik">Pasta with Tomato Sauce</string>
+    <string name="tarif_baslik">Pasta Recipe with Tomato Sauce</string>
 </resources>

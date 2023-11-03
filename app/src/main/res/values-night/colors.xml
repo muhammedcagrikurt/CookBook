@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="anaRenk">#323232</color>
+    <color name="yazi1Renk">#FFFFFFFF</color>
+    <color name="yazi2Renk">#F28705</color>
+    <color name="arkaplan">#CFCFCF</color>
+    <!-- <color name="anaRenk">#F28705</color>
+    <color name="yazi1Renk">#323232</color>
+    <color name="yazi2Renk">#292929</color>
+    <color name="arkaplan">#CFCFCF</color> -->
+
+</resources>
